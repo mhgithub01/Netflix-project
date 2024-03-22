@@ -52,22 +52,29 @@ nav button{
     position: relative;
     justify-content: center;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    gap: 10px;
+    gap: 20px;
+    padding: 30px;
+   
 }
 .hero> :nth-child(1){
     font-weight: bolder;
     font-size: 38px;
+    text-align: center;
 }
 
 .hero> :nth-child(2){
     font-weight: 300;
+    text-align: center;
     font-size: 24px;
 }
 
 .hero> :nth-child(3){
     font-weight: 300;
     font-size: 20px;
+    text-align: center;
 }
+
+
 
 
 
