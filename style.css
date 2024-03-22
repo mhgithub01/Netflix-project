@@ -2,3 +2,26 @@
 padding: 0;
 margin: 0;
 }
+.main{
+    background-image: url(./assets/images/background.jpg);
+      height: 80vh;
+      position: relative;
+      background-repeat: no-repeat;
+     
+}
+.box{
+    height: 80vh;
+    width: 100%;
+    opacity: 0.6;
+    background-color: black;
+    position: absolute;
+    top: 0%;
+}
+nav{
+    max-width: 80vw;
+    margin: auto;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
